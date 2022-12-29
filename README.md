@@ -31,3 +31,5 @@ Use the "Table of Contents" menu on the top-left corner to explore the list. -->
 <!-- ### Templates -->
 
 ## Plugins
+
+- [samuelstroschein/inlang-plugin-json](https://github.com/samuelstroschein/inlang-plugin-json) - This plugin reads and writes resources that are stored as JSON.
