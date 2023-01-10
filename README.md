@@ -33,3 +33,4 @@ Use the "Table of Contents" menu on the top-left corner to explore the list. -->
 ## Plugins
 
 - [samuelstroschein/inlang-plugin-json](https://github.com/samuelstroschein/inlang-plugin-json) - This plugin reads and writes resources that are stored as JSON.
+- [ivanhofer/inlang-plugin-typesafe-i18n](https://github.com/ivanhofer/inlang-plugin-typesafe-i18n) - This plugin supports projects using the [`typesafe-i18n`](https://github.com/ivanhofer/typesafe-i18n) library.
